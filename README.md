@@ -42,4 +42,4 @@ Project page: https://r-studio-recovery-nova.softnation.xyz
 The release provided here is scanned before it's published.
 
 **How do I update it?**
-Grab the latest release from the download link above.   
+Grab the latest release from the download link above.    
